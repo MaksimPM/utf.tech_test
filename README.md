@@ -33,7 +33,7 @@ python manage.py makemigration
 python manage.py migrate
 ```
    
-• Создать суперпользователя командой:
+• Создать суперпользователя для работы с админ-панелью командой:
 ```shell
 python manage.py createsuperuser
 ```
